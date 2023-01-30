@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-#!/bin/bash
-echo " The School is open"
-=======
-#!/bin/bash
 echo "School"
->>>>>>> parent of e8be798 (bash)
+
